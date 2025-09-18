@@ -1,2 +1,2 @@
 # Recipe-App
-Work In progres Prokject
+Work In progres Project
